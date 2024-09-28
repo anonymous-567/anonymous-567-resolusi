@@ -2,7 +2,10 @@ Rencana kontenku:
 - JavaScript
   * ES6
   * Framework JavaScript
+    * VueJS
 - Struktur data dasar
 - PHP Framework
+  * Laravel
 - Interview
 - Vlog
+- Python
